@@ -39,6 +39,8 @@ read_time: true
 words_per_minute: 200
 mathjax: true
 search_full_content: true
+disqus:
+  shortname: my_dl_blog
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
