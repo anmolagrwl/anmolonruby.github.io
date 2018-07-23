@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: A2DeepLearning
 email: anmol1771@gmail.com
-description: "Sample blog"
+description: "Blog on Deep Learning with PyTorch"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anmol1771
